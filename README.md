@@ -2,9 +2,9 @@
 
 This repository contains Python code and analysis related to statistical methods. Whether you are new to Git or experienced, this guide will help you get started and contribute to this project.
 
-Dataset:[sleep-health-and-lifestyle-dataset]("https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset")
+Dataset: [sleep-health-and-lifestyle-dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
 
-CodeBook:[CodeBook]("https://docs.google.com/document/d/1Nv1ONy6ndNyqHh32drahPNXe8wwCWosqDjxjMV7rop4/edit?usp=sharing")
+CodeBook: [CodeBook](https://docs.google.com/document/d/1Nv1ONy6ndNyqHh32drahPNXe8wwCWosqDjxjMV7rop4/edit?usp=sharing)
 
 ## Prerequisites
 Before you start, make sure you have:
