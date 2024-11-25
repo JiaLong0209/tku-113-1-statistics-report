@@ -1,0 +1,1 @@
+poetry add pandas numpy scikit-learn mlxlend matplotlib
